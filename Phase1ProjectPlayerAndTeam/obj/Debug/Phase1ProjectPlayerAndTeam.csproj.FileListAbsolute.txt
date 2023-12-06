@@ -1,0 +1,7 @@
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\bin\Debug\Phase1ProjectPlayerAndTeam.exe.config
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\bin\Debug\Phase1ProjectPlayerAndTeam.exe
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\bin\Debug\Phase1ProjectPlayerAndTeam.pdb
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\obj\Debug\Phase1ProjectPlayerAndTeam.csproj.AssemblyReference.cache
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\obj\Debug\Phase1ProjectPlayerAndTeam.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\obj\Debug\Phase1ProjectPlayerAndTeam.exe
+D:\mphasis Simplilearn\Day21\Phase1ProjectPlayerAndTeam\Phase1ProjectPlayerAndTeam\obj\Debug\Phase1ProjectPlayerAndTeam.pdb
